@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+images/
+artifacts/baseline_backup_*/
+artifacts/baseline_comparison.*
+artifacts/knn_model.joblib
+artifacts/classification_report.csv
+artifacts/disease_f1.png
+artifacts/features.npz
+artifacts/metrics.json
+artifacts/mplconfig/
+artifacts/per_label_metrics.csv
+artifacts/test_sample_predictions.csv
+artifacts/random_forest_experiments/
+artifacts/random_forest/knn_vs_random_forest*
